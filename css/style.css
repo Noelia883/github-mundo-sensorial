@@ -10,6 +10,7 @@ header {
     border-bottom: 1px solid;
     padding: 15PX;
     align-items: center;
+    background-color: aliceblue;
 }
 
 header nav ul {
