@@ -1,0 +1,13 @@
+/* Grid*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 150px);
+    column-gap: 15px;
+    row-gap: 15px;
+    max-width: 1000px;
+    gap: 2rem;
+    grid-auto-rows: minmax(100px, auto);
+}
+

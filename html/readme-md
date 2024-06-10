@@ -1,0 +1,1 @@
+Este proyecto es sobre una base de datos de catadores de alimentos, donde participaran de proyecto de análisis sensorial, además se capacitaran en análisis sensorial y podrán tener premios por participaran
