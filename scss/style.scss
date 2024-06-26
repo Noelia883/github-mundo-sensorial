@@ -1,9 +1,15 @@
 
-@import "./base/reset";
+/*reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 
 @import "./layaut/header";
 
-@import "./layaut/carrusel";
+@import "./base/reset";
 
 @import "./container/carrusel-component";
 
