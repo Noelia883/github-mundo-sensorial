@@ -1,4 +1,4 @@
-header{
+.header{
         display: flex;
         display: none;
         justify-content: space-around;
@@ -8,7 +8,7 @@ header{
        background-color: aliceblue;
      
     }
-    nav{
+    .nav{
         ul{
             display: flex;
             list-style-type: none;
@@ -22,11 +22,12 @@ header{
                 color: black;
                 font-size: 1rem;
                 font-family: Arial, Helvetica, sans-serif;
+                list-style-type: none;
              }   
            }
         }
     }
-    div{
+    .div.registro.registro{
         a{
             display: flex;
             color:blue;
@@ -37,6 +38,7 @@ header{
             display: flex;
             align-items: flex-end;
             margin-right: 10px;  
+            list-style-type: none;
         }
     }
 
