@@ -6,12 +6,11 @@
   box-sizing: border-box;
 }
 
+@import "./base/reset";
 
 @import "./layaut/header";
 
-@import "./base/reset";
 
-@import "./container/carrusel-component";
 
 @import "./layaut/grid";
 
